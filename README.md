@@ -1,9 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Installation
-To install the stable version:
+To install:
 
-npm install
+### `npm install`
 
 ## Available Scripts
 
