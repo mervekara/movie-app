@@ -22,11 +22,11 @@ You will also see any lint errors in the console.
 On the Home Page, you will see the poster of the most popular movie and the details about the movie. When we go down there are 20 popular movies with slides. With SearchBar, you can search for movies you like, except for popular movies. Clicking on the popular movies or the movies resulting from the search provides details about the movie.
 
 ### Core Technologies
-[React],
-[JavaScript ES6]
+[React](https://tr.reactjs.org/),
+[JavaScript ES6](http://es6-features.org/#Constants)
 
 ### Significant Libraries
-[Carousel],
-[styled-components],
-[Font Awesome]
+[Carousel](https://w3js.com/react-multi-carousel),
+[styled-components](https://styled-components.com/),
+[Font Awesome](https://fontawesome.com/?from=io)
 
